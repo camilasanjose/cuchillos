@@ -1,0 +1,11 @@
+[
+    {
+        "name": "knave filo",
+      "price": 3000,
+      "color": "marron",
+      "image": "/images/cuchillo.jpg",
+      "category": "knave",
+      "stock": 10,
+      "description":"cuchillo filo chico"
+    }
+]
