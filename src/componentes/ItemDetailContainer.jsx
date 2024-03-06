@@ -3,7 +3,7 @@ import ItemDetail from './ItemDetail';
 import { useParams } from 'react-router-dom';
 import { BarLoader } from "react-spinners";
 import { getDoc, doc} from "firebase/firestore";
-import { db } from '../db/firebaseConfig.js';
+import { db } from '../db/firebaseConfig.jsx';
 
 
 

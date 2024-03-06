@@ -1,0 +1,8 @@
+.cuchillos {
+    display: flex; /* Usa un contenedor flexible para las imágenes */
+  }
+  
+  .cuchillos-image {
+    margin-right: 100px; /* Agrega un margen derecho para separar las imágenes (ajusta según sea necesario) */
+  }
+  

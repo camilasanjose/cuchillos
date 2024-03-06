@@ -3,9 +3,46 @@
         "name": "knave filo",
       "price": 3000,
       "color": "marron",
-      "image": "/images/cuchillo.jpg",
-      "category": "knave",
+      "image": "/images/cuchilloMadera.jpeg",
+      "category": "Knives",
       "stock": 10,
       "description":"cuchillo filo chico"
+    },
+    {
+      "name": "knave mango madera",
+      "price": 3000,
+      "color": "marron",
+      "image": "/images/cuchilloUsmc.png",
+      "category": "Home",
+      "stock": 10,
+      "description":"cuchillo con mango de madera"
+
+    },
+    {
+      "name": "knave claveles",
+      "price": 4000,
+      "color": "black",
+      "image": "/images/cuchillo5.jpeg",
+      "category": "Shop",
+      "stock": 10,
+      "description":"cuchillo de cocinero"
+    },
+    {
+      "name": "Tabla para cortar",
+      "price": 5000,
+      "color": "Madera",
+      "image": "/images/tablaCarne.png",
+      "category": "Other products",
+      "stock": 10,
+      "description":"Tabla para cortar de madera"
+    },
+    {
+      "name": "Porta cuchillos",
+      "price": 3000,
+      "color": "black",
+      "image": "/images/portaCuchillo.jpeg",
+      "category": "Other products",
+      "stock": 10,
+      "description":"Porta cuchillos de metal"
     }
 ]

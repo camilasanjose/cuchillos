@@ -1,0 +1,12 @@
+
+  
+.gallery {
+  display: flex;
+  flex-wrap: wrap; /* Permite que las imágenes se envuelvan a la siguiente fila */
+}
+
+.gallery-image {
+  width: calc(25% - 20px); /* 25% del ancho del contenedor, menos el espacio entre las imágenes */
+  margin: 10px; /* Espacio entre las imágenes */
+  box-sizing: border-box; /* Incluye el margen y el borde en el ancho y alto del elemento */
+}

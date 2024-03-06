@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 const Item = ({ id, name, image, price, stock }) => {
     return(
+      
         <div className="overflow-hidden bg-white rounded-lg ">
         <img src={image} alt="" className="h-[500px] w-full object-contain" />
         <div className="p-8 text-center sm:p-9 md:p-7 xl:p-9">
